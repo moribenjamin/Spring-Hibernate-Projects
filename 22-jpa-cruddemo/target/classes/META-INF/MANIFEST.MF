@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Mori
+Build-Jdk: 10.0.2
+Implementation-Title: cruddemo
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.moribenjamin.springboot
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/cruddemo
+Created-By: Maven Integration for Eclipse
+
